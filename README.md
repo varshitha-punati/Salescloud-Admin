@@ -1,28 +1,37 @@
 # Salescloud-Admin
 
 ## What is Salesforce Sales Cloud?
- salesforce cloud  brings customer data together in one platform and aids collaboration between teams. It also helps automate several daily tasks, speeding up the selling cycle.
-
-Unlike any other software, Salesforce Sales Cloud helps keep track of the revenue throughout the sales cycle to manage your relationships with your customers. The most crucial feature of Salesforce Sales Cloud, however, is the accessibility; you can access the data through the web or even on your smartphone. This same data can be utilized to create brand awareness and incorporate several sales strategies in the long run.
+- salesforce cloud  brings customer data together in one platform and aids collaboration between teams. 
+- It also helps automate several daily tasks, speeding up the selling cycle.
+- Unlike any other software, Salesforce Sales Cloud helps keep track of the revenue throughout the sales cycle to manage your relationships with your customers. 
+- The most crucial feature of Salesforce Sales Cloud, however, is the accessibility; 
+- you can access the data through the web or even on your smartphone.
+- This same data can be utilized to create brand awareness and incorporate several sales strategies in the long run.
 
 ## What is the Need for Using Salesforce Sales Cloud?
  You must consider using a Salesforce Sales Cloud for your business requirement for multiple reasons.
 
 Check out some of the benefits it provides. 
 
-It gives you detailed, in-depth insights and helps track customer data. This helps in accurate analysis and reporting.
-To get an integrated customer experience throughout the sales teams and further increase productivity.
-Use the data to develop your unique sales strategy because this will work very well for your sales forecasting needs.
-You can improvise on your customer services through collaboration and marketing trends
+- It gives you detailed, in-depth insights and helps track customer data.
+- This helps in accurate analysis and reporting.
+- To get an integrated customer experience throughout the sales teams and further increase productivity.
+- Use the data to develop your unique sales strategy because this will work very well for your sales forecasting needs.
+- You can improvise on your customer services through collaboration and marketing trends
 
 ![WhatsApp Image 2023-03-22 at 2 22 39 PM](https://user-images.githubusercontent.com/72751737/226851336-55cfdb9b-1c40-47b9-ac4b-796fce28491e.jpeg)
-## CRM LIFE CYCLE
-According to the customer life cycle, we know that the first step in the CRM process is maximising reach with leads. In practice, reach is using your CRM to generate brand awareness via targeted marketing campaigns.
 
-Every stage in the customer life cycle corresponds to an actionable step in the CRM process. The key is knowing what those steps are and how to execute them.
+## CRM LIFE CYCLE
+- According to the customer life cycle, we know that the first step in the CRM process is maximising reach with leads. In practice, reach is using your CRM to generate brand awareness via targeted marketing campaigns.
+
+- Every stage in the customer life cycle corresponds to an actionable step in the CRM process. 
+- The key is knowing what those steps are and how to execute them.
 ![image](https://user-images.githubusercontent.com/72751737/227116218-9ea21a18-dd28-45b8-9812-3564cc5d76ee.png)
-What are the steps in the CRM process?
-The five steps in the CRM process are a collaborative effort between Marketing, Sales and Support departments. To help you understand how each team works together, we will go through how each step works in practice. We will cover not only how each part of the process can be completed with a CRM tool but also who is responsible for each step.
+### What are the steps in the CRM process?
+- The five steps in the CRM process are a collaborative effort between Marketing, Sales and Support departments. 
+- To help you understand how each team works together, we will go through how each step works in practice.
+-  We will cover not only how each part of the process can be completed with a CRM tool but also who is responsible for each step.
+
 Some important objects in sales cloud are
 
 1. Campaign
@@ -34,31 +43,26 @@ Some important objects in sales cloud are
 7. Price Books
 8. contract
 
-#### ONE SCENARIO:
-ABC Is a newly established company into the business of manufacturing and selling
-laptops
-They sells only to corporates
-manufacture of laptops is over
-sales and marketing has not yet started
-They are looking for sales and marketing team that can suggest them a suitable sales and marketing process
-you are one of the shortlisted teams
-You are Required to propose a sales and marketing process to them and based on process you recommend ,you will be hired.
+#### SCENARIO:
+- ABC Is a newly established company into the business of manufacturing and selling laptops
+- They sells only to corporates manufacture of laptops is over
+- sales and marketing has not yet started
+- They are looking for sales and marketing team that can suggest them a suitable sales and marketing process
+- you are one of the shortlisted teams
+- You are Required to propose a sales and marketing process to them and based on process you recommend ,you will be hired.
 --------------------------------------------------------------------------------------------------------------------------
-Suppose there are 10k laptops that are already manufactured
-These laptops are products that are manufactured or produced(there can be different modles and variations avaialble)like 2000 laps with one features and other 4000 will be with another features
-
-These information needs to be tracked
-Like pricing is different crm also need the information needs to be tarcked
-
-All the products that you are manufactured that needs to be store in one thing, so it is stored in products
-Goto sales application and understand all tabs in it and how data got transfered from one tab to another tab
-
-sales->products->new product
-Here product name and product family like is it tab or laptop like this
-Every company has different way of tracking details and different arrtributes like laptops,shoes
-product active means any product which is avaiable for sales
-inactive means it is not avaiable
-some of the models are outdated and company stops manufacturing it
+- Suppose there are 10k laptops that are already manufactured
+- These laptops are products that are manufactured or produced(there can be different modles and variations avaialble)like 2000 laps with one features and other 4000  will be with another features
+- These information needs to be tracked
+- Like pricing is different crm also need the information needs to be tarcked
+- All the products that you are manufactured that needs to be store in one thing, so it is stored in products
+- Goto sales application and understand all tabs in it and how data got transfered from one tab to another tab
+- sales->products->new product
+- Here product name and product family like is it tab or laptop like this
+- Every company has different way of tracking details and different arrtributes like laptops,shoes
+- product active means any product which is avaiable for sales
+- inactive means it is not avaiable
+- some of the models are outdated and company stops manufacturing it
 ![image](https://user-images.githubusercontent.com/72751737/227114456-baac8e06-6890-4ba9-9420-22936a37c367.png)
 
 
