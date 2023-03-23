@@ -192,7 +192,7 @@ Give logo and all the things once you are done save and send as Email
 after that it ask from to whom you need to send the email
  
 
-and then she will receive the quote through mail like this
+and Then she will receive the quote through mail like this
  
 now if you keep the quote as closed lost then you can keep 
 then there i need one startegy to resell another product 
