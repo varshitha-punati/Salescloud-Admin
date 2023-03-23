@@ -63,10 +63,7 @@ Some important objects in sales cloud are
 - product active means any product which is avaiable for sales
 - inactive means it is not avaiable
 - some of the models are outdated and company stops manufacturing it
-![image](https://user-images.githubusercontent.com/72751737/227114456-baac8e06-6890-4ba9-9420-22936a37c367.png)
-
-
- 
+- ![227114456-baac8e06-6890-4ba9-9420-22936a37c367](https://user-images.githubusercontent.com/72751737/227121480-fa87d3c2-b138-419e-bcd7-b7f31e70b4c2.png) 
 -------------------------------------------------------------------------------------------------------------------------
 upto know you have tracked all product things now what you need to do is you need to start promotions
 Promotional Events or Activities
