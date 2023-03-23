@@ -18,7 +18,7 @@ Check out some of the benefits it provides.
 - To get an integrated customer experience throughout the sales teams and further increase productivity.
 - Use the data to develop your unique sales strategy because this will work very well for your sales forecasting needs.
 - You can improvise on your customer services through collaboration and marketing trends
-- ![Uploading 6.png…]()
+![Uploading 6.png…]()
 
 ## CRM LIFE CYCLE
 - According to the customer life cycle, we know that the first step in the CRM process is maximising reach with leads. In practice, reach is using your CRM to generate brand awareness via targeted marketing campaigns.
