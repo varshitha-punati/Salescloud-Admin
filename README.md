@@ -16,6 +16,8 @@ Use the data to develop your unique sales strategy because this will work very w
 You can improvise on your customer services through collaboration and marketing trends
 
 ![WhatsApp Image 2023-03-22 at 2 22 39 PM](https://user-images.githubusercontent.com/72751737/226851336-55cfdb9b-1c40-47b9-ac4b-796fce28491e.jpeg)
+## CRM LIFE CYCLE
+![image](https://user-images.githubusercontent.com/72751737/227116218-9ea21a18-dd28-45b8-9812-3564cc5d76ee.png)
 
 ABC Is a newly established company into the business of manufacturing and selling
 laptops
