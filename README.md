@@ -178,6 +178,8 @@ Some important objects in sales cloud are
 - stage executive is also very important initially the stage was qualification,then it changed to negotiation and prospecting nd so and so
 - This quote was not visible before i enabled it
 - once admin will enable it is coming know
+<img width="458" alt="5" src="https://user-images.githubusercontent.com/72751737/227147146-7476fecb-6057-4e73-8bad-4440f664269c.png">
+
 - now you can say to jo let me send the quotation
 - Quote is the standard object given by salesforce
 - Every quote should have expiry date
