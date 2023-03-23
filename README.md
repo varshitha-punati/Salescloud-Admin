@@ -1,8 +1,19 @@
 # Salescloud-Admin
 
-
-
+## What is Salesforce Sales Cloud?
  salesforce cloud  brings customer data together in one platform and aids collaboration between teams. It also helps automate several daily tasks, speeding up the selling cycle.
+
+Unlike any other software, Salesforce Sales Cloud helps keep track of the revenue throughout the sales cycle to manage your relationships with your customers. The most crucial feature of Salesforce Sales Cloud, however, is the accessibility; you can access the data through the web or even on your smartphone. This same data can be utilized to create brand awareness and incorporate several sales strategies in the long run.
+
+## What is the Need for Using Salesforce Sales Cloud?
+ You must consider using a Salesforce Sales Cloud for your business requirement for multiple reasons.
+
+Check out some of the benefits it provides. 
+
+It gives you detailed, in-depth insights and helps track customer data. This helps in accurate analysis and reporting.
+To get an integrated customer experience throughout the sales teams and further increase productivity.
+Use the data to develop your unique sales strategy because this will work very well for your sales forecasting needs.
+You can improvise on your customer services through collaboration and marketing trends
 ![WhatsApp Image 2023-03-22 at 2 22 39 PM](https://user-images.githubusercontent.com/72751737/226851336-55cfdb9b-1c40-47b9-ac4b-796fce28491e.jpeg)
 
 ABC Is a newly established company into the business of manufacturing and selling
