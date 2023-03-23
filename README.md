@@ -74,14 +74,17 @@ Some important objects in sales cloud are
 - So,in sales there is a campaigns tab and there is a campaign object in backend all those promotion activities are tarcked in backend
 - let suppose you are doing a conference
 - Active Campaign is something which is still active
-- those you not doing are inactive campaigns
-- there different types of promotional activities telemarketing,email
+- Those you not doing are inactive campaigns
+
+- There different types of promotional activities telemarketing,email
 - Next there is status whether it is a planned or in progress 
 - There will be start date and stop date
+<img width="436" alt="1" src="https://user-images.githubusercontent.com/72751737/227144501-18c63d8e-a921-4972-8bfc-2186db4c7357.png">
 - Expected revenue and Budgeted cost
 - Actual Cost
 - So,After a Campaign you will receive a few intrested prosperties
 - During this conference people receive few enquiries that people saying we are intrested.
+<img width="427" alt="Screenshot 2023-03-23 120242" src="https://user-images.githubusercontent.com/72751737/227144308-814c10cb-9ed0-4b55-95ee-0237fbefa02b.png">
 
 -----------------------------------------------------------------------------------------------------------------------
 ### Leads
@@ -95,16 +98,23 @@ Some important objects in sales cloud are
 - So that is the reason associate a lead with campaign but make sure that campaign is active
 - Only active campaigns can be connected to the leads
 
-----------------------
+<img width="430" alt="2" src="https://user-images.githubusercontent.com/72751737/227144881-a54fcdd6-0077-4780-93c4-25182411e6f6.png">
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Lead Conversion
 - Every one wants laptop if you want laptop talk to our procuretment Head who is Ramakrishna
 - More over if you go and create one more lead because if you go and create one more lead then both you should be individual but what i want both of them to be          linked under 1 account
+<img width="427" alt="3" src="https://user-images.githubusercontent.com/72751737/227145591-a857e376-31b5-41a5-ba5c-94f6f459411a.png">
+
+
 - I need to have to delete the first person but i also need to store the information of second person and we cannot delete the information of the first person and       without deleting i need to store information of the second person
 - More over i can't create one more lead because if i create 1 more lead  what 1 want is both of them one account to be linked becuase both of them are from wipro
 - So,in that case what you need to do is you can conver this lead into account and contacts
 - so on lead once you save the lead there is a convert button
 - Select the Converted status and try to convert
 - Converting Basically means it will convert the lead into the account,contact 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ### Accounts and Contacts
 - Account will have the company information related wipro ,contacts will have the information of persons who are working
 - All the leads you are getting will not be the valid leads some them are not valid at all
 - The moment you try to call them is the phone number is wrong
@@ -117,6 +127,8 @@ Some important objects in sales cloud are
 - when you click on account,contact then you also check for the opportunity or not
       accounts-company
       Contacts-Individuals
+
+ 
 - will not track the information related to  your deal also 
 - what is the prospect or what is the opportunity that you have
 - like if you had the opportunity of selling 200 Laptops in nov where this info will store this info is also mixed with  the opportunity
@@ -149,9 +161,15 @@ Some important objects in sales cloud are
 
 - suppose the customer xyz private limited and the contact person name is joo
 - jo says hey rajesh you are the sales person send me the quotation
+
 - i know you are charging me 182 dollars so can you send me the quotation i want to see after taxes,all the var ,gst and local var what will be the final amount that you want to charge so for that we had something called quotation
+
+<img width="435" alt="4" src="https://user-images.githubusercontent.com/72751737/227146522-97d6dc0c-fc1d-42cb-ab2b-404ad1fdb858.png">
+
 - so,you as an admin need to enable for quotation for first time
-### Enable quotation:
+
+##### Enable quotation:
+
 -- go to =>setup=>search for quote setting=>enable it
 - if you and check in opportunities for quote tab there is not quote there 
 - notes and attachement are like if you want to attach there
