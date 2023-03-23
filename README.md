@@ -18,8 +18,7 @@ Check out some of the benefits it provides.
 - To get an integrated customer experience throughout the sales teams and further increase productivity.
 - Use the data to develop your unique sales strategy because this will work very well for your sales forecasting needs.
 - You can improvise on your customer services through collaboration and marketing trends
-
-![WhatsApp Image 2023-03-22 at 2 22 39 PM](https://user-images.githubusercontent.com/72751737/226851336-55cfdb9b-1c40-47b9-ac4b-796fce28491e.jpeg)
+![image](https://user-images.githubusercontent.com/72751737/227149412-96d29a9c-2c6d-415c-9614-36b24ad5a295.png)
 
 ## CRM LIFE CYCLE
 - According to the customer life cycle, we know that the first step in the CRM process is maximising reach with leads. In practice, reach is using your CRM to generate brand awareness via targeted marketing campaigns.
@@ -27,7 +26,9 @@ Check out some of the benefits it provides.
 - Every stage in the customer life cycle corresponds to an actionable step in the CRM process. 
 - The key is knowing what those steps are and how to execute them.
 ![image](https://user-images.githubusercontent.com/72751737/227116218-9ea21a18-dd28-45b8-9812-3564cc5d76ee.png)
+
 ### What are the steps in the CRM process?
+
 - The five steps in the CRM process are a collaborative effort between Marketing, Sales and Support departments. 
 - To help you understand how each team works together, we will go through how each step works in practice.
 -  We will cover not only how each part of the process can be completed with a CRM tool but also who is responsible for each step.
