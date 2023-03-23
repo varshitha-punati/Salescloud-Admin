@@ -43,6 +43,7 @@ Some important objects in sales cloud are
 7. Price Books
 8. contract
 
+
 #### SCENARIO:
 - ABC Is a newly established company into the business of manufacturing and selling laptops
 - They sells only to corporates manufacture of laptops is over
