@@ -28,6 +28,9 @@ Every company has different way of tracking details and different arrtributes li
 product active means any product which is avaiable for sales
 inactive means it is not avaiable
 some of the models are outdated and company stops manufacturing it
+![image](https://user-images.githubusercontent.com/72751737/227114456-baac8e06-6890-4ba9-9420-22936a37c367.png)
+
+
  ![WhatsApp Image 2023-03-22 at 1 59 45 PM (1)](https://user-images.githubusercontent.com/72751737/227113773-e6f3ef94-687a-4cb8-a268-b98aead81979.jpeg)
 ![WhatsApp Image 2023-03-22 at 1 59 45 PM (2)](https://user-images.githubusercontent.com/72751737/227113788-94f059b0-905b-45f4-924c-e370df788165.jpeg)
 ![WhatsApp Image 2023-03-22 at 1 59 45 PM (3)](https://user-images.githubusercontent.com/72751737/227113795-0d7ac70d-0bf7-40fc-afbb-1be2be71a1cf.jpeg)
