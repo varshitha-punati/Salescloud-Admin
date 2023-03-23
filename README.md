@@ -17,14 +17,30 @@ You can improvise on your customer services through collaboration and marketing 
 
 ![WhatsApp Image 2023-03-22 at 2 22 39 PM](https://user-images.githubusercontent.com/72751737/226851336-55cfdb9b-1c40-47b9-ac4b-796fce28491e.jpeg)
 ## CRM LIFE CYCLE
-![image](https://user-images.githubusercontent.com/72751737/227116218-9ea21a18-dd28-45b8-9812-3564cc5d76ee.png)
+According to the customer life cycle, we know that the first step in the CRM process is maximising reach with leads. In practice, reach is using your CRM to generate brand awareness via targeted marketing campaigns.
 
+Every stage in the customer life cycle corresponds to an actionable step in the CRM process. The key is knowing what those steps are and how to execute them.
+![image](https://user-images.githubusercontent.com/72751737/227116218-9ea21a18-dd28-45b8-9812-3564cc5d76ee.png)
+What are the steps in the CRM process?
+The five steps in the CRM process are a collaborative effort between Marketing, Sales and Support departments. To help you understand how each team works together, we will go through how each step works in practice. We will cover not only how each part of the process can be completed with a CRM tool but also who is responsible for each step.
+Some important objects in sales cloud are
+
+1. Campaign
+2. Lead
+3. Account
+4. Contact
+5. Opportunity
+6. Products
+7. Price Books
+8. contract
+
+#### ONE SCENARIO:
 ABC Is a newly established company into the business of manufacturing and selling
 laptops
-they sells only to corporates
+They sells only to corporates
 manufacture of laptops is over
 sales and marketing has not yet started
-they are looking for sales and marketing team that can suggest them a suitable sales and marketing process
+They are looking for sales and marketing team that can suggest them a suitable sales and marketing process
 you are one of the shortlisted teams
 You are Required to propose a sales and marketing process to them and based on process you recommend ,you will be hired.
 --------------------------------------------------------------------------------------------------------------------------
@@ -32,10 +48,10 @@ Suppose there are 10k laptops that are already manufactured
 These laptops are products that are manufactured or produced(there can be different modles and variations avaialble)like 2000 laps with one features and other 4000 will be with another features
 
 These information needs to be tracked
-like pricing is different crm also need the information needs to be tarcked
+Like pricing is different crm also need the information needs to be tarcked
 
-All the products that you are manufactured that needs to be store in one thing,so it is stored in products
-goto sales application and understnd all tabs in it and hwo data got transfered from 1 tab to another tab
+All the products that you are manufactured that needs to be store in one thing, so it is stored in products
+Goto sales application and understand all tabs in it and how data got transfered from one tab to another tab
 
 sales->products->new product
 Here product name and product family like is it tab or laptop like this
@@ -46,40 +62,7 @@ some of the models are outdated and company stops manufacturing it
 ![image](https://user-images.githubusercontent.com/72751737/227114456-baac8e06-6890-4ba9-9420-22936a37c367.png)
 
 
- ![WhatsApp Image 2023-03-22 at 1 59 45 PM (1)](https://user-images.githubusercontent.com/72751737/227113773-e6f3ef94-687a-4cb8-a268-b98aead81979.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (2)](https://user-images.githubusercontent.com/72751737/227113788-94f059b0-905b-45f4-924c-e370df788165.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (3)](https://user-images.githubusercontent.com/72751737/227113795-0d7ac70d-0bf7-40fc-afbb-1be2be71a1cf.jpeg)
-
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (2)](https://user-images.githubusercontent.com/72751737/227113796-1a356406-8121-468f-9071-2882f2418f62.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (4)](https://user-images.githubusercontent.com/72751737/227113800-fd9e5d81-e290-434a-b61b-94df174e9a3b.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (3)](https://user-images.githubusercontent.com/72751737/227113803-6bb072a1-9244-4483-be10-21250cdbafe6.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (5)](https://user-images.githubusercontent.com/72751737/227113805-41990eef-5e83-47c2-abc6-0bb55af3cf0c.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (6)](https://user-images.githubusercontent.com/72751737/227113809-d2114a7a-4d13-446a-99d6-fdfa7a60c905.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (4)](https://user-images.githubusercontent.com/72751737/227113810-243becbc-763c-416e-820d-01e162d7ff86.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (7)](https://user-images.githubusercontent.com/72751737/227113816-a650906d-c8e3-4972-8327-ea8acc5cd9a3.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (5)](https://user-images.githubusercontent.com/72751737/227113817-bc078acb-6b34-4d28-bb04-e0b4a12849ed.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (8)](https://user-images.githubusercontent.com/72751737/227113821-c5d8a440-d185-482e-883c-f1898bf30d52.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (6)](https://user-images.githubusercontent.com/72751737/227113822-e7efe6d8-a1c7-4d7f-a68f-92c8897c4c1e.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (9)](https://user-images.githubusercontent.com/72751737/227113826-e189faea-8d8e-47cb-ad5c-304272099fb6.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (7)](https://user-images.githubusercontent.com/72751737/227113828-fdb3464a-5d5c-4751-a7f1-294c2f42590e.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM](https://user-images.githubusercontent.com/72751737/227113835-845cff11-ef97-4c26-a620-7cd6883685f9.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (8)](https://user-images.githubusercontent.com/72751737/227113836-f11b776a-0202-403a-b2a4-8465efb6af27.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 46 PM (1)](https://user-images.githubusercontent.com/72751737/227113839-d972e144-c9d1-4cdb-a1d3-0cc51d8d9335.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (9)](https://user-images.githubusercontent.com/72751737/227113842-bef547e1-6035-4a62-ab07-d81b255779b2.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 46 PM (2)](https://user-images.githubusercontent.com/72751737/227113844-1c5713b0-99a3-43ff-822f-d9e5098701a0.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM](https://user-images.githubusercontent.com/72751737/227113845-dcd0f6fd-4a8a-4a4f-aaa6-185906617434.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 46 PM (3)](https://user-images.githubusercontent.com/72751737/227113849-d744f727-9e3f-492e-a3e2-22723a885d1a.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 46 PM (1)](https://user-images.githubusercontent.com/72751737/227113851-bf3ae30a-ca96-4f49-9082-1db5a87f0594.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 46 PM (4)](https://user-images.githubusercontent.com/72751737/227113852-b1f584cd-ba87-4b4a-aece-ceee4e3e6f0f.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 46 PM (2)](https://user-images.githubusercontent.com/72751737/227113856-456de93e-d93d-430c-935d-bf98716e3cef.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 46 PM](https://user-images.githubusercontent.com/72751737/227113858-640b9f54-e096-4472-8132-d68dc0c0290c.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 46 PM (3)](https://user-images.githubusercontent.com/72751737/227113860-fe0eb0b2-df23-41a6-9991-92d08d8c8195.jpeg)
-![WhatsApp Image 2023-03-22 at 2 22 43 PM](https://user-images.githubusercontent.com/72751737/227113862-d470fc69-8b3d-45db-96b0-2e9576e11557.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 46 PM (4)](https://user-images.githubusercontent.com/72751737/227113867-63b7e3b4-66ee-4355-ab91-864584b91846.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 46 PM](https://user-images.githubusercontent.com/72751737/227113872-0d1feb5f-ac34-47c2-adf2-6bec4310134b.jpeg)
-![WhatsApp Image 2023-03-22 at 2 22 43 PM](https://user-images.githubusercontent.com/72751737/227113877-98b907c0-fb07-43a7-8bb4-5063869ab6af.jpeg)
-![WhatsApp Image 2023-03-22 at 1 59 45 PM (1)](https://user-images.githubusercontent.com/72751737/227113885-96e97537-b69a-4934-bed7-3cacf6fc00d6.jpeg)
-
+ 
 -------------------------------------------------------------------------------------------------------------------------
 upto know you have tracked all product things now what you need to do is you need to start promotions
 Promotional Events or Activities
