@@ -14,6 +14,7 @@ It gives you detailed, in-depth insights and helps track customer data. This hel
 To get an integrated customer experience throughout the sales teams and further increase productivity.
 Use the data to develop your unique sales strategy because this will work very well for your sales forecasting needs.
 You can improvise on your customer services through collaboration and marketing trends
+
 ![WhatsApp Image 2023-03-22 at 2 22 39 PM](https://user-images.githubusercontent.com/72751737/226851336-55cfdb9b-1c40-47b9-ac4b-796fce28491e.jpeg)
 
 ABC Is a newly established company into the business of manufacturing and selling
