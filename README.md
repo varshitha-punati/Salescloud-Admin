@@ -53,7 +53,6 @@ Some important objects in sales cloud are
 - They are looking for sales and marketing team that can suggest them a suitable sales and marketing process
 - you are one of the shortlisted teams
 - You are Required to propose a sales and marketing process to them and based on process you recommend ,you will be hired.
---------------------------------------------------------------------------------------------------------------------------
 - Suppose there are 10k laptops that are already manufactured
 - These laptops are products that are manufactured or produced(there can be different modles and variations avaialble)like 2000 laps with one features and other 4000  will be with another features
 - These information needs to be tracked
