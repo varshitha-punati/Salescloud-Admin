@@ -1,6 +1,7 @@
 # Salescloud-Admin
 
 ## What is Salesforce Sales Cloud?
+
 - salesforce cloud  brings customer data together in one platform and aids collaboration between teams. 
 - It also helps automate several daily tasks, speeding up the selling cycle.
 - Unlike any other software, Salesforce Sales Cloud helps keep track of the revenue throughout the sales cycle to manage your relationships with your customers. 
